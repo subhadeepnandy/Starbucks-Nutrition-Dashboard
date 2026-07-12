@@ -112,8 +112,4 @@ KPI Development
 Data Visualization
 
 📷 Dashboard Preview
-(Insert your dashboard screenshot here.)
-
-Introduce healthier beverage suggestions.
-Create a mobile-friendly dashboard layout.
-Add forecasting and trend analysis.
+([Insert your dashboard screenshot here.](https://github.com/subhadeepnandy/Starbucks-Nutrition-Dashboard/blob/main/Starbucks_page-.jpg))
